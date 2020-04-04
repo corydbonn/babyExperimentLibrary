@@ -1,2 +1,2 @@
 # babyExperimentLibrary
-This is a suite of python code for running custom infant experiments.  It depends on a working installation of psychopy.  
+This is python code I've used in creating stimuli for infant experiments.  It depends on a working installation of psychopy.  
